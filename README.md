@@ -1,1 +1,1 @@
-# easyyui
+# EasyUI
